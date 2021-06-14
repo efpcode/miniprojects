@@ -90,3 +90,5 @@ def check_password():
 
 if __name__ == "__main__":
     print(check_password())
+    print(">>> Done!")
+
